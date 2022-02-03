@@ -19,4 +19,47 @@ Recuerden que:
 
 ## ¿Cómo subir el archivo?
 
-...
+### Paso 01
+
+Abrir el archivo a modificar:
+
+![Editar Paso 01](docs/editar-paso-01.jpg?raw=true)
+
+### Paso 02
+
+Seleccionamos el lápiz de la esquina superior derecha:
+
+![Editar Paso 02](docs/editar-paso-02.jpg?raw=true)
+
+### Paso 03
+
+Una vez modificado el archivo, subimos los cambios con el botón `Commit changes`
+
+![Editar Paso 03](docs/editar-paso-03.jpg?raw=true)
+
+
+### Paso 04
+
+Ir a la sección de Pull requests:
+
+![Editar Paso 04](docs/editar-paso-04.1.jpg?raw=true)
+
+### Paso 05
+
+Verificar el estado de nuestra subida
+
+![Editar Paso 05](docs/editar-paso-05.jpg?raw=true)
+
+### Paso 06
+
+Ver detalle de mi subida:
+
+![Editar Paso 06](docs/editar-paso-06.jpg?raw=true)
+
+### Paso 07
+
+Cuando la subida sea existosa vamos a ver algo como esto:
+
+![Editar Paso 07](docs/editar-paso-07.jpg?raw=true)
+
+Cuando la subida sea exitosa quiere decir que la tarea está completa.
