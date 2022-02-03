@@ -62,4 +62,4 @@ Cuando la subida sea existosa vamos a ver algo como esto:
 
 ![Editar Paso 07](docs/editar-paso-07.jpg?raw=true)
 
-Cuando la subida sea exitosa quiere decir que la tarea está completa.
+Si llegamos a este paso con la subida exitosa, la tarea estará completa, entregada y revisada.
