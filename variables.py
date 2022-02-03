@@ -1,8 +1,8 @@
-x = 20
+z = 20
 
-y = 10
+x = 10
 
-z = 3
+y = 3
 
 
-resultado = x + y * 365 - z * 52
+resultado = z + x * 365 - y * 52
