@@ -17,6 +17,7 @@
 
 	// Set *default* container specific settings.json values on container create.
 	"settings": { 
+		"workbench.iconTheme": "material-icon-theme",
 		"python.defaultInterpreterPath": "/usr/local/bin/python",
 		"python.linting.enabled": true,
 		"python.linting.pylintEnabled": true,
@@ -39,7 +40,8 @@
 	// Add the IDs of extensions you want installed when the container is created.
 	"extensions": [
 		"ms-python.python",
-		"ms-python.vscode-pylance"
+		"ms-python.vscode-pylance",
+		"pkief.material-icon-theme"
 	],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
