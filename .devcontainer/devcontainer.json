@@ -41,7 +41,7 @@
 	"extensions": [
 		"ms-python.python",
 		"ms-python.vscode-pylance",
-		"pkief.material-icon-theme"
+		"PKief.material-icon-theme"
 	],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
